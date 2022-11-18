@@ -1,0 +1,316 @@
+.bg{
+    border: 1px solid gray ;
+
+}
+
+.mar{
+    margin: -12px;
+}
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+.ali{
+    margin-left: 35%;
+    
+
+}
+
+    
+
+
+.active{
+    color: green !important;
+}
+li{
+    padding: 5%;
+}
+a:hover{
+    color: green !important;
+    
+}
+
+.god{
+  
+   
+color: green;
+font-weight: bold;
+   text-align: center;
+  margin-top: 50px;
+  font-size: 50px;
+
+}
+.columna{
+    
+    background-color: green;
+    height: 15em;
+  margin: .5em;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  
+  
+}
+.carda{
+    width: 20px;
+}
+.con{
+    text-align: justify;
+}
+.fam{
+    background-color: green;
+    
+    color: white;
+    font-weight: bold;
+    text-align: center;
+  margin-top: 50px;
+  font-size: 40px;
+}
+
+.fam1 h5{
+    text-align: center;
+   padding: 30px;
+height: 9em;
+    background-color: green;
+    color: white;
+}
+
+.sub{
+    background-color: white;
+    color: #267D39;
+  padding: 10px 9px 10px 9px;
+   
+    text-align: center;
+    margin-left:42%;
+    margin-right: 42%;
+    margin-top: 18px;
+
+}
+
+.sub:hover{
+    color: white;
+    background-color: green;
+}
+
+.ba{ 
+    background-image: url("https://pyt-blogs.imgix.net/2020/06/srinivasan-venkataraman-9NmYCjfBGp0-unsplash-1-scaled.jpg?auto=format&ixlib=php-3.3.0");
+    width: 100%;
+    height: 100%;
+background-size: cover;
+
+}
+
+.ba p{
+   margin-top: 30%;
+    align-items: center;
+    font-weight: bold;
+    background-color: #267D39;
+}
+.ca{ 
+    background-image: url("https://sbnri.com/blog/wp-content/uploads/2022/02/Kerala_Main-730x410-1.jpg");
+    width: 100%;
+    height: 100%;
+background-size: cover;
+}
+
+.ca p{
+   margin-top: 30%;
+    align-items: center;
+    font-weight: bold;
+    background-color: #267D39;
+}.da{ 
+    background-image: url("https://images.hindustantimes.com/img/2021/12/30/1600x900/abhishek-prasad-N3VzleBhOvk-unsplash_1628499374705_1640865003723.jpg");
+    width: 100%;
+    height: 100%;
+background-size: cover;
+}
+
+.da p{
+   margin-top: 30%;
+    align-items: center;
+    font-weight: bold;
+    background-color: #267D39;
+}.ea{ 
+    background-image: url("https://images.hindustantimes.com/img/2021/12/30/1600x900/abhishek-prasad-N3VzleBhOvk-unsplash_1628499374705_1640865003723.jpg");
+    width: 100%;
+    height: 100%;
+background-size: cover;
+}
+
+.ea p{
+   margin-top: 30%;
+    align-items: center;
+    font-weight: bold;
+    background-color: #267D39;
+}
+
+
+.log{
+    font-weight: bold;
+    color: green;
+    text-align: center;
+   padding: 20px 20px 20px 20px;
+}
+
+.loginform{
+  border: 1px solid green;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 5px 10px green;
+    font-weight: bold;
+}
+
+.btncolor{
+    color: green;
+    border: 4px solid green !important;
+
+}
+
+.back{
+    background-color: #FFFCF6;
+
+    
+    
+}
+
+
+.button-3 {
+    appearance: none;
+    background-color: #2ea44f;
+    border: 1px solid rgba(27, 31, 35, .15);
+    border-radius: 10px;
+    box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    padding: 8px 26px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+  }
+  
+  .button-3:focus:not(:focus-visible):not(.focus-visible) {
+    box-shadow: none;
+    outline: none;
+  }
+  
+  .button-3:hover {
+    background-color: #2c974b;
+  }
+  
+  .button-3:focus {
+    box-shadow: rgba(46, 164, 79, .4) 0 0 0 3px;
+    outline: none;
+  }
+  
+  .button-3:disabled {
+    background-color: #94d3a2;
+    border-color: rgba(27, 31, 35, .1);
+    color: rgba(255, 255, 255, .8);
+    cursor: default;
+  }
+  
+  .button-3:active {
+    background-color: #298e46;
+    box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+  }
+
+.pass{ margin-left: 30%;
+color: #267D39;
+    font-size:15px
+ 
+   
+}
+
+.margincopy{
+    margin-top: 15%;
+}
+
+.margincopysign{
+    margin-top: 5%;
+}
+
+
+.sizec{
+width: 80px;
+height: 20em;
+
+object-fit:fill;
+}
+.be{   
+    color: green;
+    font-weight: bold;
+       text-align: center;
+      margin-top: 50px;
+      font-size: 50px;
+      margin-bottom: 50px;
+
+}
+
+
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.card-title{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.margindis{
+    margin-top: 30px;
+}
+
+.district_exp{
+    text-align: center;
+    color: green;
+    font-size: 20px;
+}
+
+.immo{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.sizecaro{
+    padding: 0 10%
+}
+.sizeim{
+    height: 600px !important;
+}
+
+.carodes{
+    font-size: larger;
+    font-weight: bold;
+    
+    color: green;
+    background-color: white;
+    margin-left: 25%;
+    width: 50%;
+    padding: 10px 10px 10px 10px;
+
+    
+    
+}
+
+.margincopya{ margin-top: 5%;
+
+}
+.colorcarddes{
+    color: #267D39;
+    font-weight: bold;
+}

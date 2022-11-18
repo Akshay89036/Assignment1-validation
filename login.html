@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login to my kerala</title>
+    <link rel="stylesheet" href="style.css">
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+      crossorigin="anonymous"
+    ></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg bg">
+        <div class="container-fluid mar">
+          <!-- <a class="navbar-brand" href="#">Navbar</a> -->
+          <img
+            class="navbar-brand"
+            src="dot-kerala-logo-big-bird-round.png"
+            alt="icon"
+            width="100px"
+            height="60px" 
+          />
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 ali">
+              <li class="nav-item">
+                <a class="nav-link "  href="./index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="./district.html">Districts</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="./login.html">Login</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="./signup.html">Signup</a>
+              </li>
+            </ul>
+            <form class="d-flex" role="search">
+              <input
+                class="form-control me-2"
+                type="search"
+                placeholder="Search"
+                aria-label="Search"
+              />
+              <button class="btn btn-outline-success" type="submit">
+                Search
+              </button>
+            </form>
+          </div>
+        </div>
+      </nav>
+<div class="back">
+      <div>
+          <h2 class="log">Welcome to God's Own Country</h2>
+      </div>
+      <div>
+        <h4 class="log">Good to see you again</h4>
+    </div>
+
+<form action="index.html">
+    <div class="container col-4 loginform">
+
+        <div class="mb-3">
+        <label for="formGroupExampleInput" class="form-label">Your Email</label>
+        <input onchange="validate()" type="text" class="form-control" id="formGroupExampleInput" placeholder="Enter your email" >
+        <label for="error" id="error"></label>
+        </div>
+        <div class="mb-3">
+        <label for="formGroupExampleInput2" class="form-label">Your Password</label>
+        <input onchange="validate()" type="password" class="form-control" id="formGroupExampleInput2" placeholder="Enter your password" >
+        <label for="error1" id="error1"></label>
+        </div>
+   
+        <button onclick="return validate()" type="submit" class="button-3" role="button" >Sign In</button>
+       
+
+        <a class="pass" >forgot your password?</a>
+     
+
+    </div>
+  </form>
+</div>
+            <div class="text-center p-3 margincopy" style="background-color: green;">
+              © 2020 Copyright:
+            
+            </div>
+</div>
+
+<script src="./index.js"></script>
+</body>
+</html>
+
+
+
